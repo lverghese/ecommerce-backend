@@ -28,6 +28,19 @@ The SQL database includes tables for products, categories, tags, and product tag
 # Tests
 No tests needed.
 
+## Screenshots from Insomnia
+- Getting all categories
+![image](https://user-images.githubusercontent.com/85531188/133866449-0654cfe7-eab4-4c1c-8f88-13856b9e394d.png)
+
+- Creating a product
+![image](https://user-images.githubusercontent.com/85531188/133866484-3b7bc3fe-48bb-47d1-817a-c4f8e5dffc24.png)
+
+- Updating a tag
+![image](https://user-images.githubusercontent.com/85531188/133866538-905b70cc-9228-4c47-80f5-e0ca21721b93.png)
+
+- Deleting a category
+![image](https://user-images.githubusercontent.com/85531188/133866710-a173d874-4538-4ac2-ba1a-0b776ed44f41.png)
+
 ## Questions
 If you have any specific questions about this project, please contact me at loganverghese@gmail.com.
 
